@@ -1,0 +1,17 @@
+concat()
+
+Description: Joins two strings.
+
+Program:
+
+public class Main {
+    public static void main(String[] args) {
+        String a="Hello";
+        System.out.println(a.concat(" World"));
+    }
+}
+
+Output:
+
+Hello World
+
