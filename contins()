@@ -1,0 +1,12 @@
+contains()
+
+Description: Checks whether a string contains another string.
+
+Program:
+
+public class Main {
+    public static void main(String[] args) {
+        String s="Java Programming";
+        System.out.println(s.contains("Java"));
+    }
+}
